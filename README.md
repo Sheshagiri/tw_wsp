@@ -19,5 +19,3 @@ Endpoint: /library/v1.0/books/<int:isbn>
 Remove a book from library
 Method: DELETE
 Endpoint: /library/v1.0/books/<int:isbn>
-
-this is a new_branch
